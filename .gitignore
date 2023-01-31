@@ -135,6 +135,7 @@ celerybeat.pid
 .env
 .venv
 env/
+multiResDjango_env/
 venv/
 ENV/
 env.bak/
